@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Ryan! 👋
 
+I'm a mechanical engineer who recently switched gears (no pun intended) into software and cloud computing. I love building projects in the cloud! I'm currently learning AWS and showcasing my learning on this profile. Some projects have been customized off others and some are original. All projects have a detailed readme section explaining lessons learned and step-by-step instructions. Feel free clone and learn on your own! Catch you around!
 <!--
 **ryan-almeida/ryan-almeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
