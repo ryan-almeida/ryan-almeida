@@ -1,4 +1,4 @@
-## Hi there, I'm Ryan! 👋
+# Hi there, I'm Ryan! 👋
 
 I'm a Mechanical Engineer who recently switched gears (no pun intended) into software and cloud computing. I'm also a former Air Force Engineering Officer who had the pleasure of serving in the Royal Canadian Air Force. As a result I fell in love with all things tech as well as aviation and aerospace.
 
