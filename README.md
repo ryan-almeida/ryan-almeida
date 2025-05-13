@@ -10,12 +10,14 @@ As I have recently begun my journey, my portfolio and projects are still a work 
 
 ## Below are some of my recent projects:
 
-- Hosting your Resume in the Cloud. [Link](https://github.com/ryan-almeida/resumewebsite)
-- Building a Serverless Web Application. [Link](https://github.com/ryan-almeida/wildrydes-site)
-- Creating your own VPC and 3 Tier Application. [Link](https://github.com/ryan-almeida/wordpress-site)
-- Building a Web Application through Docker, and learning Containerization. [Link](https://github.com/ryan-almeida/docker-webapp)
-- Deploying a Web Application through Terraform and learning Infrastrucure as Code. [Link](https://github.com/ryan-almeida/terraform-project)
-- and much more to come!
+- Deploying a Furniture Website Using Terraform. [Link](https://github.com/ryan-almeida/terraform-concepts-project)
+- Building a Serverless Image Processing App. [Link](https://github.com/ryan-almeida/image-processing-app)
+- Building a Multi-Container Voting Application. [Link](https://github.com/ryan-almeida/container-app)
+- Building a Todo Web Notification Servic. [Link](https://github.com/ryan-almeida/todo-web-service)
+- Building a Food Ordering Chatbot. [Link](https://github.com/ryan-almeida/chatbot-app)
+- Building an Airport Statistics Dashboard Using QuickSight. [Link](https://github.com/ryan-almeida/quicksight-bi)
+- Building a Turn Based Game and Learning Event Driven Architecture. [Link](https://github.com/ryan-almeida/turn-based-game)
+- Building a Bookstore Application using AWS Databases. [Link](https://github.com/ryan-almeida/database-project)
 
 If you ever feel like collaborating, contributing, or working together (because isn't that what it's all about?), here are few more things about me and my professional background:
 
